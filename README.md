@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-Welcome to my personal [Portfolio](https://www.username.com/) website! Feel free to learn about me and connect.
+Welcome to my personal [Portfolio](https://syedafaheem.github.io/) website! Feel free to learn about me and connect.
 
 ## 📌 What’s Inside
 - My Name
