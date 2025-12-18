@@ -33,7 +33,7 @@ I’m constantly exploring new ways technology can improve people’s lives—an
 
 ## Projects
 
-
+[https://github.com/SyedaFaheem?tab=repositories]
 
 
 
@@ -63,4 +63,5 @@ link to my resume.
 
 ## Contact Me
 - Email: [Syedafaheem7@gmail.com]
+- Email: [Syedafaheem56@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/faheem-unnisa-s-6270888b/)
